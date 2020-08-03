@@ -1,24 +1,37 @@
 {
-  "name": "angular-supercharger",
   "author": {
     "name": "Lorcan Chinnock",
     "email": "ljchinnock@gmail.com"
   },
-  "publisher": "lorcanchinnock",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/LorcanChinnock/angular-supercharger"
-  },
-  "icon": "angularsupercharger.png",
-  "displayName": "Angular Supercharger",
-  "description": "An opinionated collection of extensions to supercharge your Angular development",
-  "version": "1.0.0",
-  "engines": {
-    "vscode": "^1.47.0"
+  "badges": [
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/version-short/lorcanchinnock.angular-supercharger.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code",
+      "description": "version",
+      "href": "https://marketplace.visualstudio.com/items?itemName=lorcanchinnock.angular-supercharger"
+    },
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/installs-short/lorcanchinnock.angular-supercharger.svg?color=blue&style=flat-square",
+      "description": "installs",
+      "href": "https://marketplace.visualstudio.com/items?itemName=lorcanchinnock.angular-supercharger"
+    },
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/rating-short/lorcanchinnock.angular-supercharger.svg?color=blue&style=flat-square",
+      "description": "rating",
+      "href": "https://marketplace.visualstudio.com/items?itemName=lorcanchinnock.angular-supercharger"
+    }
+  ],
+  "bugs": {
+    "email": "ljchinnock@gmail.com",
+    "url": "https://github.com/LorcanChinnock/angular-supercharger/issues"
   },
   "categories": [
     "Extension Packs"
   ],
+  "description": "An opinionated collection of extensions to supercharge your Angular development",
+  "displayName": "Angular Supercharger",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
   "extensionPack": [
     "angular.ng-template",
     "cyrilletuzi.angular-schematics",
@@ -32,5 +45,25 @@
     "eg2.vscode-npm-script",
     "esbenp.prettier-vscode",
     "vscode-icons-team.vscode-icons"
-  ]
+  ],
+  "galleryBanner": {
+    "color": "#1976d2",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/LorcanChinnock/angular-supercharger",
+  "icon": "angularsupercharger.png",
+  "keywords": [
+    "Angular",
+    "Angular 2",
+    "Angular 9",
+    "TypeScript",
+    "HTML"
+  ],
+  "name": "angular-supercharger",
+  "publisher": "lorcanchinnock",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LorcanChinnock/angular-supercharger"
+  },
+  "version": "1.0.1"
 }
