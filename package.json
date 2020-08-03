@@ -4,6 +4,11 @@
     "name": "Lorcan Chinnock",
     "email": "ljchinnock@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LorcanChinnock/angular-supercharger"
+  },
+  "icon": "angularsupercharger.png",
   "displayName": "Angular Supercharger",
   "description": "An opinionated collection of extensions to supercharge your Angular development",
   "version": "1.0.0",
