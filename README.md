@@ -5,6 +5,7 @@
 [![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/lorcanchinnock.angular-supercharger.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=lorcanchinnock.angular-supercharger)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/lorcanchinnock.angular-supercharger.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=lorcanchinnock.angular-supercharger)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/lorcanchinnock.angular-supercharger.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=lorcanchinnock.angular-supercharger)
+
 An opinionated collection of extensions to supercharge your Angular development
 
 ## Extensions Included
